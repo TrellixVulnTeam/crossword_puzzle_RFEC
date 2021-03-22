@@ -1,0 +1,2 @@
+class InsertionError(Exception):
+    pass
